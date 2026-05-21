@@ -1,0 +1,22 @@
+# Visual Studio / Windows
+.vs/
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# macOS
+.DS_Store
+
+# Node
+node_modules/
+
+# Logs
+*.log
+
+# Editor directories
+.vscode/
