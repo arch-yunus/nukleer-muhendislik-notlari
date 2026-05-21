@@ -59,3 +59,7 @@ python scripts/decay_calculator.py
 ```
 
 İleri adımlar: daha fazla ders, örnek problem ve teknik diyagram ekleyebilirim. İsterseniz ben devam edeyim.
+
+## Lisans
+
+Bu depo MIT lisansı altında yayınlanmaktadır — detaylar için `LICENSE` dosyasına bakın.
